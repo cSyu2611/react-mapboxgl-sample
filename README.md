@@ -29,6 +29,6 @@ const demoAPI = "YOUR DEMO API URL HERE";
 ## Project setup
 ```
 $ yarn install
-$ yarn run serve
+$ yarn start
 ```
 もしくはnpm
