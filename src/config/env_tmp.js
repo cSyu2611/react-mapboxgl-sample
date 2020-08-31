@@ -1,6 +1,6 @@
 const mapboxAccessToken = "YOUR ACCESS TOKEN HERE";
 
-const demoAPI = "https://demomap.dataeye.jp/api";
+const demoAPI = "YOUR DEMO API URL HERE";
 
 const THRESHOLD2048 = {
   "0": "rgba(42, 0, 255, 0.5)",
